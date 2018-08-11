@@ -1,1 +1,4 @@
 scons-2.0.1/
+asan/
+lcov/
+ragel/
